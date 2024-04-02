@@ -11,7 +11,7 @@ function App() {
         <p class="font-normal justify-center text-gray-700">Ecommerce Development made better with our 100% managed commerce backend</p>
         <p>(Coming Soon)</p>
     </a>
-</div>
+  </div>
 
   </>
 
